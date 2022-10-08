@@ -524,7 +524,7 @@
 	 padding: 1.5rem 0;
 	 border: 0;
 	 outline: none;
-	 vertical-align: middle;
+	 /* vertical-align: middle; */
 	 color: #313131;
 	 font-family: "poppins-regular", sans-serif;
 	 font-size: 1.5rem;
@@ -1101,7 +1101,7 @@
 	 min-width: 80px;
 	 min-height: 66px;
 	 position: absolute;
-	 left: 90px;
+	 /* left: 90px; */
 	 top: 0;
  }
  /* header .logo {
@@ -1141,10 +1141,11 @@
 	 float: left;
 	 width: 40px;
 	 height: 40px;
-	 margin-left: 20px;
+	 /* margin-left: 20px; */
 	 margin-top: 13px;
 	 display: block;
 	 position: relative;
+
  }
  .menu-toggle span {
 	 display: block;
@@ -1307,7 +1308,7 @@
   * ------------------------------------------------------------------- 
   */
  #intro {
-	 background: #151515 url(../images/pcb.jpg) no-repeat center bottom;
+	 background: #151515 url(../images/portfolio/IMG_5949.JPG) no-repeat center bottom;
 	 -webkit-background-size: cover;
 	 -moz-background-size: cover;
 	 background-size: cover;
